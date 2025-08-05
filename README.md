@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Ezequias Martins
 
-Bem-vindo ao meu GitHub! Sou sócio fundador da "psi-software" - projetos e soluções integradas em software, um pool de parcerias junto com Luiz Vaz da Sideplay e Afonso Motta da Codec Vídeo, atuando como ora como profissional autônomo ou PJ com foco em Consultoria de TI , Web/SEO, infraestrutura digital, e-commerce e projetos para automação comercial. 
+Bem-vindo ao meu GitHub! Sou sócio fundador da "psi-software" - projetos e soluções integradas em software, um pool de parcerias junto com **Luiz Vaz** da Sideplay e **Afonso Motta** da Codec Vídeo, atuando como ora como profissional autônomo ou PJ com foco em Consultoria de TI , Web/SEO, infraestrutura digital, e-commerce e projetos para automação comercial. 
 
 ---
 

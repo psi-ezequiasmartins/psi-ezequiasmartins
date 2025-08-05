@@ -1,15 +1,13 @@
 # 👋 Olá, meu nome é Ezequias Martins
 
 Bem-vindo ao meu GitHub!  
-Sou sócio fundador da **psi-software**, atuando como consultor PJ em TI, Web/SEO, infraestrutura digital, e-commerce e automação comercial.  
-Parcerias com [Sideplay](https://github.com/luizvaz) e [Codec Vídeo](https://github.com/AfonsoMotta).
+Sou sócio fundador da **psi-software**, atuando como consultor PJ em TI, Web/SEO, infraestrutura digital, e-commerce e automação comercial. Parcerias com [Sideplay](https://github.com/luizvaz) e [Codec Vídeo](https://github.com/AfonsoMotta).
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Engenheiro de Software Full Stack Sênior com +35 anos de experiência em ambientes Desktop, Web e Mobile.  
-Atualmente focado em sistemas para delivery, automação comercial, comunicação integrada e soluções com Inteligência Artificial.
+Engenheiro de Software Full Stack Sênior com +35 anos de experiência em ambientes Desktop, Web e Mobile. Atualmente focado em sistemas para delivery, automação comercial, comunicação integrada e soluções com Inteligência Artificial.
 
 ---
 

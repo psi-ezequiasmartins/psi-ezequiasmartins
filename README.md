@@ -40,6 +40,7 @@ Engenheiro de Software Full Stack Sênior com +35 anos de experiência em ambien
 ### Frontend (Web & Mobile)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
 
 ### Backend & Frameworks

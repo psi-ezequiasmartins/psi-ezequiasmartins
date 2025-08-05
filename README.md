@@ -20,7 +20,7 @@ Já trabalhei com diversos tipos de sistemas para dezenas de empresas em Belo Ho
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas com as quais trabalho e tenho bom domínio:
+## 🛠️ Tecnologias e Ferramentas com as quais trabalho:
 
 ### 🖥️ Linguagens de Programação
 <div>

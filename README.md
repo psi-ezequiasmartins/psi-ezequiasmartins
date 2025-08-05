@@ -52,13 +52,14 @@ Já trabalhei com diversos tipos de sistemas para dezenas de empresas em Belo Ho
  <img title="Firebase" alt="Google Firebase" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 </div>
 
-### ☁️ Cloud e DevOps
+### ☁️ Cloud & Ferramentas DevOps
 <div>
  <img title="AWS" alt="AWS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
  <img title="GCP" alt="Google Cloud" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
  <img title="Absam.io" alt="Absam.io" height="30" src="https://absam.io/img/logo1.png">
  <img title="Contabo.com" alt="Cotabo.com" height="30" src="https://getdeploying.com/static/img/logos/contabo.e4fd0a52a454.png">
  <img title="Hostinger" alt="Hostinger" height="30" src="https://images.tech.co/wp-content/uploads/2021/10/30105654/hostinger-logo-hosting-mini-56x56.png">
+ <img title="Vercel" alt="Vercel" height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vercel/vercel-original.svg">
 </div>
 
 ### 📦 Infraestrutura e Contêineres
@@ -71,7 +72,6 @@ Já trabalhei com diversos tipos de sistemas para dezenas de empresas em Belo Ho
 ### 🔄 Controle de Versão, CI/CD & Tools
 <div>
  <img title="Git" alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <img title="Vercel" alt="Vercel" height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vercel/vercel-original.svg">
  <img title="Expo" alt="Expo" height="30" src="https://seekicon.com/free-icon-download/expo_1.png">
 </div>
 
@@ -80,7 +80,7 @@ Já trabalhei com diversos tipos de sistemas para dezenas de empresas em Belo Ho
  <img title="Sentry" alt="Sentry" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg">
 </div>
 
-### 🧑‍💻 Ferramentas de Desenvolvimento e Editores
+### 🧑‍💻 Ambiente de Desenvolvimento
 <div>
  <img title="VSCode" alt="VSCode" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
  <img title="Notepad++" alt="VSCode" height="30" src="https://anthoncode.com/wp-content/uploads/2020/04/logo-notepad.png?is-pending-load=1">
@@ -93,7 +93,7 @@ Já trabalhei com diversos tipos de sistemas para dezenas de empresas em Belo Ho
  <img title="Postman" alt="Postman" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg">
 </div>
 
-### 🛠️ Outros
+### 🛠️ Utilitários e Ferramentas Extras
 <div>
  <img title="SSH" alt="SSH" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg">
  <img title="Shell Script" alt="Shell Script" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">

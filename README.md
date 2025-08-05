@@ -47,7 +47,7 @@ Já trabalhei com diversos tipos de sistemas para dezenas de empresas em Belo Ho
 ### 💾 Banco de Dados
 <div>
  <img title="MySQL" alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- <img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+ <img title="PostgreSQL" alt="PostgreSQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
  <img title="SQLite" alt="SQLite" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
  <img title="Firebase" alt="Google Firebase" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 </div>
@@ -83,7 +83,7 @@ Já trabalhei com diversos tipos de sistemas para dezenas de empresas em Belo Ho
 ### 🧑‍💻 Ferramentas de Desenvolvimento e Editores
 <div>
  <img title="VSCode" alt="VSCode" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- <img title="Notepad++" alt="VSCode" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+ <img title="Notepad++" alt="VSCode" height="30" src="https://anthoncode.com/wp-content/uploads/2020/04/logo-notepad.png?is-pending-load=1">
  <img title="Nano" alt="Nano" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nano/nano-plain.svg">
 </div>
 

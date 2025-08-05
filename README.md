@@ -58,7 +58,7 @@ Já trabalhei com diversos tipos de sistemas para dezenas de empresas em Belo Ho
  <img title="GCP" alt="Google Cloud" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
  <img title="Absam.io" alt="Absam.io" height="30" src="https://absam.io/img/logo1.png">
  <img title="Contabo.com" alt="Cotabo.com" height="30" src="https://getdeploying.com/static/img/logos/contabo.e4fd0a52a454.png">
- <img title="Hostinger" alt="Hostinger" height="30" src="https://seeklogo.com/images/H/hostinger-logo-6B346B6FBB-seeklogo.com.png">
+ <img title="Hostinger" alt="Hostinger" height="30" src="https://images.tech.co/wp-content/uploads/2021/10/30105654/hostinger-logo-hosting-mini-56x56.png">
 </div>
 
 ### 📦 Infraestrutura e Contêineres

@@ -61,7 +61,7 @@ Engenheiro de Software Full Stack Sênior com +35 anos de experiência em ambien
 PM2, NGINX, Certbot, GitHub Actions, UFW
 
 ### 📚 Testes & Documentação
-Postman, Insomnia, Swagger
+Postman, Insomnia
 
 ---
 

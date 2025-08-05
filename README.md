@@ -56,7 +56,7 @@ Já trabalhei com diversos tipos de sistemas para dezenas de empresas em Belo Ho
 <div>
  <img title="AWS" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
  <img title="GCP" alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
- <img title="Absam.io" alt="Absam.io" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/absam/absam-original.svg">
+ <img title="Absam.io" alt="Absam.io" height="30" width="40" src="https://absam.io/img/logo1.png">
  <img title="Contabo.com" alt="Cotabo.com" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/contabo/contabo-original.svg">
  <img title="Hostinger" alt="Hostinger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hostinger/hostinger-original.svg">
  <img title="Vercel" alt="Vercel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vercel/vercel-original.svg">

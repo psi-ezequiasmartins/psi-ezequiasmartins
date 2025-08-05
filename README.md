@@ -5,13 +5,13 @@ Sou sócio fundador da **psi-software**, atuando como consultor PJ em TI, Web/SE
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
 Engenheiro de Software Full Stack Sênior com +35 anos de experiência em ambientes Desktop, Web e Mobile. Atualmente focado em sistemas para delivery, automação comercial, comunicação integrada e soluções com Inteligência Artificial.
 
 ---
 
-## 📌 Áreas de Interesse
+## Áreas de Interesse
 
 - Node.js, React.js, React Native  
 - Delphi, PHP  
@@ -22,7 +22,7 @@ Engenheiro de Software Full Stack Sênior com +35 anos de experiência em ambien
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
 - **psi-Hotéis**: Gestão de hotelaria para pequenas e médias empresas  
 - **psi-CRM**: Sistema CRM adaptável para diversos setores  
@@ -32,13 +32,14 @@ Engenheiro de Software Full Stack Sênior com +35 anos de experiência em ambien
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 🧑‍💻 Linguagens de Programação
+### Linguagens de Programação
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Delphi](https://img.shields.io/badge/Delphi-C73324?logo=delphi&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 
-### 🎨 Frontend
+### 🎨 Frontend (Web & Mobile)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![React Native](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
 
 ### ⚙️ Backend & Frameworks

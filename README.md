@@ -24,32 +24,32 @@ Já trabalhei com diversos tipos de sistemas para dezenas de empresas em Belo Ho
 
 ### 🖥️ Linguagens de Programação
 <div>
- <img title="Delphi/Object Pascal" alt="Delphi/Object Pascal" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-plain.svg">
- <img title="PHP" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
- <img title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img title="Delphi/Object Pascal" alt="Delphi/Object Pascal" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-plain.svg">
+ <img title="PHP" alt="PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+ <img title="JavaScript" alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ### 🎨 Frontend
 <div>
- <img title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
- <img title="Tailwind CSS" alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
- <img title="HTML5" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
- <img title="CSS3" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+ <img title="React" alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img title="Bootstrap" alt="Bootstrap" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+ <img title="Tailwind CSS" alt="Tailwind" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+ <img title="HTML5" alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+ <img title="CSS3" alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
 </div>
 
 ### 🔙 Ferramentas e Frameworks Backend
 <div>
- <img title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
- <img title="Express" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+ <img title="NodeJS" alt="NodeJS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+ <img title="Express" alt="Express" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
 </div>
 
 ### 💾 Banco de Dados
 <div>
- <img title="MySQL" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- <img title="PostgreSQL" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
- <img title="SQLite" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
- <img title="Firebase" alt="Google Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+ <img title="MySQL" alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+ <img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+ <img title="SQLite" alt="SQLite" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+ <img title="Firebase" alt="Google Firebase" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 </div>
 
 ### ☁️ Cloud e DevOps
@@ -58,43 +58,45 @@ Já trabalhei com diversos tipos de sistemas para dezenas de empresas em Belo Ho
  <img title="GCP" alt="Google Cloud" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
  <img title="Absam.io" alt="Absam.io" height="30" src="https://absam.io/img/logo1.png">
  <img title="Contabo.com" alt="Cotabo.com" height="30" src="https://getdeploying.com/static/img/logos/contabo.e4fd0a52a454.png">
- <img title="Hostinger" alt="Hostinger" height="30" src="https://www.imagensempng.com.br/wp-content/uploads/2023/05/Logo-Hostinger-Png.png">
- <img title="Vercel" alt="Vercel" height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vercel/vercel-original.svg">
+ <img title="Hostinger" alt="Hostinger" height="30" src="https://w7.pngwing.com/pngs/292/493/png-transparent-hostinger-hd-logo-thumbnail.png">
 </div>
 
 ### 📦 Infraestrutura e Contêineres
 <div>
- <img title="Docker" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
- <img title="NGINX" alt="NGINX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
- <img title="Apache" alt="Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
+ <img title="Docker" alt="Docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
+ <img title="NGINX" alt="NGINX" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+ <img title="Apache" alt="Apache" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
 </div>
 
-### 🔄 Controle de Versão e CI/CD
+### 🔄 Controle de Versão, CI/CD & Tools
 <div>
- <img title="Git" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ <img title="Git" alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ <img title="Vercel" alt="Vercel" height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vercel/vercel-original.svg">
+ <img title="Expo" alt="Expo" height="30" src="https://seekicon.com/free-icon-download/expo_1.png">
+</div>
 
 ### 📊 Monitoramento e Logs
 <div>
- <img title="Sentry" alt="Sentry" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg">
+ <img title="Sentry" alt="Sentry" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg">
 </div>
 
 ### 🧑‍💻 Ferramentas de Desenvolvimento e Editores
 <div>
- <img title="VSCode" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- <img title="Notepad++" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- <img title="Nano" alt="Nano" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nano/nano-plain.svg">
+ <img title="VSCode" alt="VSCode" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+ <img title="Notepad++" alt="VSCode" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+ <img title="Nano" alt="Nano" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nano/nano-plain.svg">
 </div>
 
 ### 🔍 Teste e Documentação de API
 <div>
- <img title="Insomnia" alt="Insomnia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
- <img title="Postman" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg">
+ <img title="Insomnia" alt="Insomnia" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
+ <img title="Postman" alt="Postman" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg">
 </div>
 
 ### 🛠️ Outros
 <div>
- <img title="SSH" alt="SSH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg">
- <img title="Shell Script" alt="Shell Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+ <img title="SSH" alt="SSH" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg">
+ <img title="Shell Script" alt="Shell Script" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </div>
 
 ---

@@ -1,12 +1,12 @@
 # 👋 Olá, meu nome é Ezequias Martins
 
-Bem-vindo ao meu GitHub! Sou fundador da "psi-software" - projetos e soluções integradas em software, atuando como ora como profissional autônomo ou PJ com foco em consultoria de tecnologia, SEO, infraestrutura digital e comércio eletrônico. 
+Bem-vindo ao meu GitHub! Sou sócio fundador da "psi-software" - projetos e soluções integradas em software, um pool de parcerias junto com Luiz Vaz da Sideplay e Afonso Motta da Codec Vídeo, atuando como ora como profissional autônomo ou PJ com foco em Consultoria de TI , Web/SEO, infraestrutura digital, e-commerce e projetos para automação comercial. 
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Sou Engenheiro de Software, desenvolvedor e arquiteto Full Stack Sênior com mais de 35 anos de atuação na área de TI. Desde os anos 1980, venho construindo soluções em ambientes Desktop, Web e Mobile, conciliando conhecimento técnico e visão empreendedora.
+Atuo como Engenheiro de Software, desenvolvedor e arquiteto Full Stack Sênior com mais de 35 anos na área de TI. Desde de 1989, venho construindo soluções em ambientes Desktop, Web e Mobile, conciliando conhecimento técnico e visão empreendedora.
 
 ### Áreas de Interesse e Estudos
 
@@ -16,17 +16,17 @@ Sou Engenheiro de Software, desenvolvedor e arquiteto Full Stack Sênior com mai
 
 ## 🚀 Projetos
 
-Já trabalhei com dezenas de empresas em Belo Horizonte, Lagoa Santa, Feira de Santana e outros polos, entregando soluções sob demanda e contribuindo para o crescimento tecnológico de meus parceiros.
+Já trabalhei com diversos tipos de sistemas para dezenas de empresas em Belo Horizonte, Lagoa Santa, Feira de Santana e outros polos, entregando soluções sob demanda e contribuindo para o crescimento tecnológico de meus parceiros oferecendo projetos como **psi-Hotéis** para hotelaria de pequeno e médio porte (hotéis, motéis e pousadas), **psi-Crm** (CRM adaptável para empresas de pequeno e médio porte em diversas áreas de atuação e o **psi-Delivery**, voltado para o nicho de deliveries em geral como bares, restaurantes, fastfoods, farmácias, floriculturas, mercados, gás de cozinha, água mineral, etc.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas com as quais já trabalhei e tenho domínio:
+## 🛠️ Tecnologias e Ferramentas com as quais trabalho e tenho bom domínio:
 
 ### 🖥️ Linguagens de Programação
 <div>
- <img title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img title="Delphi/Object Pascal" alt="Delphi/Object Pascal" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-plain.svg">
  <img title="PHP" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+ <img title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ### 🎨 Frontend

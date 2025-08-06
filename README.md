@@ -27,6 +27,7 @@ Engenheiro de Software Full Stack Sênior com +35 anos de experiência em ambien
 - **psi-Hotéis**: Gestão de hotelaria para pequenas e médias empresas  
 - **psi-CRM**: Sistema CRM adaptável para diversos setores  
 - **psi-Delivery**: Plataforma de delivery para restaurantes, farmácias, mercados e mais
+- **nexus.markagp.com.br**: Sistema de Atendimento Inteligente integrado ao WhatsApp, Facebook, Instagram e IA
 
 ---
 

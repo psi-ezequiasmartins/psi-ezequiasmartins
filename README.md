@@ -14,7 +14,7 @@ Engenheiro de Software Full Stack Sênior com +35 anos de experiência em ambien
 ## Áreas de Interesse
 
 - Node.js, React.js, React Native  
-- Delphi, PHP  
+- Delphi (Pascal, Pascal w/ Objects/Object Pascal), PHP, Javascript
 - MySQL, PostgreSQL, Firebase  
 - AWS Amplify, Linux VPS, DevOps  
 - NGINX, PM2, Docker, UFW, Certbot  

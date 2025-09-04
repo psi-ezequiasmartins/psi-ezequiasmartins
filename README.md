@@ -7,7 +7,7 @@ Sou sócio fundador da **psi-software**, atuando como consultor PJ em TI, Web/SE
 
 ## Sobre Mim
 
-Engenheiro de Software Full Stack Sênior com +35 anos de experiência em ambientes Desktop, Web e Mobile. Atualmente focado em sistemas para delivery, automação comercial, comunicação integrada e soluções com uso e suporte de Inteligência Artificial: ChatGPT (OpenAI), OpCoPilot (Microsoft), Gemini (Google) e Claude.AI 
+Engenheiro de Software Full Stack Sênior com +35 anos de experiência em ambientes Desktop, Web e Mobile. Atualmente focado em sistemas para delivery, automação comercial, comunicação integrada e soluções com assistência e suporte de Inteligência Artificial como OpCoPilot (Microsoft), Gemini (Google), Claude.AI e ChatGPT (OpenAI).
 
 ---
 
@@ -71,5 +71,7 @@ Postman, Insomnia
 ## Contato
 
 **ezequiasmartins@gmail.com.br**  
-**+55 31 98410-7540** (WhatsApp / Telegram)  
 [GitHub/psi-ezequiasmartins](https://github.com/psi-ezequiasmartins)
+**+55 31 98410-7540** WhatsApp | Telegram (t.me/psi_software)
+[ezequiasmartins@gmail.com](mailto:ezquiasmartins@gmail.com)
+

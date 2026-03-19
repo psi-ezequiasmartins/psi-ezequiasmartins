@@ -6,7 +6,7 @@ Sou sócio fundador da **psi-software**, atuando como consultor PJ em TI, Web/SE
   **LuizVaz** da [Sideplay](https://github.com/luizvaz) 
   
   **Afonso Motta** da [Codec Vídeo](https://github.com/AfonsoMotta)
-    
+  
   **Walcledson de Paula** [Microvolution Info](https://microvolution.wmx.net.br/)
     
   Entre outros, etc.

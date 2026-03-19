@@ -56,7 +56,7 @@ Engenheiro de Software Full Stack Sênior com +35 anos de experiência em ambien
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
 
 ### Bancos de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=black&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 
 ### Cloud & DevOps
@@ -66,7 +66,7 @@ Engenheiro de Software Full Stack Sênior com +35 anos de experiência em ambien
 
 ### Ambientes de Desenvolvimento
 ![Expo](https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/logo=vscode&logoColor=blue&style=for-the-badge)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/:extensionId)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?logo=notepad%2B%2B&logoColor=black&style=for-the-badge)
 
 ### Monitoramento & CI/CD

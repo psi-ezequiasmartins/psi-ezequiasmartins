@@ -66,7 +66,7 @@ Engenheiro de Software Full Stack Sênior com +35 anos de experiência em ambien
 
 ### Ambientes de Desenvolvimento
 ![Expo](https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudio-code&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?logo=notepad%2B%2B&logoColor=black&style=for-the-badge)
 
 ### Monitoramento & CI/CD

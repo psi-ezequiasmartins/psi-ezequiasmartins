@@ -19,6 +19,7 @@ Sou sócio fundador da **psi-software**, atuando como consultor PJ em TI, Web/SE
 ## Sobre Mim
 
 Engenheiro de Software Full Stack Sênior com +35 anos de experiência em ambientes Desktop, Web e Mobile.
+
 Atualmente focado em sistemas para delivery, automação comercial e industrial, comunicação integrada e soluções eom assistência e suporte por Inteligência Artificial como CoPilot (Microsoft), Gemini (Google), Claude (Anthropic) e ChatGPT (OpenAI).
 
 ---

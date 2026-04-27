@@ -77,6 +77,8 @@ Postman, Insomnia
 
 **ezequiasmartins@gmail.com.br**  
 [GitHub/psi-ezequiasmartins](https://github.com/psi-ezequiasmartins)
+
 **+55 31 98410-7540** WhatsApp | Telegram (t.me/psi_software)
+
 [ezequiasmartins@gmail.com](mailto:ezquiasmartins@gmail.com)
 

@@ -2,12 +2,15 @@
 
 Bem-vindo ao meu GitHub!  
 Sou sócio fundador da **psi-software**, atuando como consultor PJ em TI, Web/SEO, infraestrutura digital, e-commerce e automação comercial, e em um pool de Parcerias como:
-
-  **LuizVaz** da [Sideplay](https://github.com/luizvaz) 
+<ul>
+ <li>LuizVaz** da [Sideplay](https://github.com/luizvaz) </li>
+ <li>Afonso Motta** da [Codec Vídeo](https://github.com/AfonsoMotta)</li>
+ <li>Walcledson de Paula** [Microvolution Info](https://microvolution.wmx.net.br/)</li>
+</ul>
   
-  **Afonso Motta** da [Codec Vídeo](https://github.com/AfonsoMotta)
   
-  **Walcledson de Paula** [Microvolution Info](https://microvolution.wmx.net.br/)
+  
+  
     
   Entre outros, etc.
 

@@ -34,10 +34,10 @@ Atualmente focado em Sistemas para Delivery, Automação Comercial e Industrial,
 
 ## Projetos
 
-- **psi-Hotéis**: Gestão de hotelaria para pequenas e médias empresas  
 - **psi-CRM**: Sistema CRM adaptável para diversos setores  
 - **psi-Delivery**: Plataforma de delivery para restaurantes, farmácias, mercados e mais
 - **nexus (chatwoot)**: Sistema de Atendimento Inteligente integrado ao WhatsApp, Facebook, Instagram e IA
+- **psi-Hotéis**: Gestão de hotelaria para pequenas e médias empresas  
 
 ---
 

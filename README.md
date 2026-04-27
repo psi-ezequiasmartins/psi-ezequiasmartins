@@ -1,18 +1,15 @@
 # 👋 Olá, meu nome é Ezequias Martins
 
 Bem-vindo ao meu GitHub!  
-Sou sócio fundador da **psi-software**, atuando como consultor PJ em TI, Web/SEO, infraestrutura digital, e-commerce e automação comercial, e em um pool de Parcerias como:
+Sou fundador da psi-software (projetos e soluções integradas em software), atuando em Consultoria e Assessoria especializada em TI, Infraestrutura Digital Web/SEO, e-Commerce, Automação Comercial e Industrial, e em parceria (pool) com:
+
 <ul>
  <li>LuizVaz - Sideplay (https://github.com/luizvaz) </li>
  <li>Afonso Motta - Codec Vídeo (https://github.com/AfonsoMotta)</li>
  <li>Walcledson de Paula - MV Info (https://microvolution.wmx.net.br/)</li>
 </ul>
   
-  
-  
-  
-    
-  Entre outros, etc.
+Entre outros.
 
 ---
 
@@ -20,7 +17,7 @@ Sou sócio fundador da **psi-software**, atuando como consultor PJ em TI, Web/SE
 
 Engenheiro de Software Full Stack Sênior com +35 anos de experiência em ambientes Desktop, Web e Mobile.
 
-Atualmente focado em sistemas para delivery, automação comercial e industrial, comunicação integrada e soluções eom assistência e suporte por Inteligência Artificial como CoPilot (Microsoft), Gemini (Google), Claude (Anthropic) e ChatGPT (OpenAI).
+Atualmente focado em Sistemas para Delivery, Automação Comercial e Industrial, Comunicação Digital, Desenvolvimento Full Stack de Projetos com Suporte e Assistência de IA (Inteligência Artificial) usando ferramentas como CoPilot (Microsoft), Gemini (Google), Claude (Anthropic) e ChatGPT (OpenAI).
 
 ---
 
@@ -40,7 +37,7 @@ Atualmente focado em sistemas para delivery, automação comercial e industrial,
 - **psi-Hotéis**: Gestão de hotelaria para pequenas e médias empresas  
 - **psi-CRM**: Sistema CRM adaptável para diversos setores  
 - **psi-Delivery**: Plataforma de delivery para restaurantes, farmácias, mercados e mais
-- **nexus.markagp.com.br**: Sistema de Atendimento Inteligente integrado ao WhatsApp, Facebook, Instagram e IA
+- **nexus (chatwoot)**: Sistema de Atendimento Inteligente integrado ao WhatsApp, Facebook, Instagram e IA
 
 ---
 

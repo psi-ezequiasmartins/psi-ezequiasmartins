@@ -24,6 +24,12 @@ Atualmente trabalhando em aplicações Web tipo SaaS (Software as a Service) par
 - React.js, Bootstrap, TailWind CSS, HTML5/CSS3, Javascript, jQuery
 - React Native, Expo CLI/EAS  
 - Delphi (Pascal, Pascal w/ Objects/Object Pascal)
+
+### Monitoramento & CI/CD
+PM2, NGINX, Certbot, GitHub Actions, UFW
+
+### Editores de Código, Testes & Documentação
+VSCode, Notepad++, Postman, Insomnia 
 ---
 
 ## Projetos Atuais
@@ -34,8 +40,6 @@ Atualmente trabalhando em aplicações Web tipo SaaS (Software as a Service) par
 - **psi-Crm** https://psi-crm.vercel.app: Sistema CRM modulado, adaptável para qualquer segmento ou nicho  
 - **Nexus (Contact Center)** https://psi-nexus.vercel.app: Atendimento Inteligente c/ suporte de IA via Chatbot, WhatsApp, Facebook, Instagram etc
 ---
-
-## Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
@@ -53,12 +57,6 @@ Atualmente trabalhando em aplicações Web tipo SaaS (Software as a Service) par
 ![Delphi](https://img.shields.io/badge/Delphi-C73324?logo=delphi&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=codecrafters&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?logo=notepad%2B%2B&logoColor=black&style=for-the-badge)
-
-### Monitoramento & CI/CD
-PM2, NGINX, Certbot, GitHub Actions, UFW
-
-### Testes & Documentação
-Postman, Insomnia, VSCode
 
 ---
 ## Pool de Parceiros:

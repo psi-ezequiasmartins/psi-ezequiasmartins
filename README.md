@@ -5,34 +5,37 @@ Sou profissional autônomo, especializado em programação e desenvolvimento de 
 
 ## Sobre Mim
 
-Engenheiro de Software Full Stack Sênior com +35 anos de experiência em ambientes Desktop, Web e Mobile.
+Desenvolvedor de Sistemas Full Stack Sênior com +35 anos de experiência em ambientes Desktop, Web e Mobile.
 
-Atualmente focado em Sistemas para Delivery, Automação Comercial e Industrial, Comunicação Digital, Desenvolvimento Full Stack de Projetos com Suporte e Assistência de IA (Inteligência Artificial) usando ferramentas como CoPilot (Microsoft), Gemini (Google), Claude (Anthropic) e ChatGPT (OpenAI).
-
----
-
-## Áreas de Interesse
-
-- Node.js, React.js, React Native  
-- Delphi (Pascal, Pascal w/ Objects/Object Pascal), PHP, Javascript
-- MySQL, PostgreSQL, Firebase  
-- AWS Amplify, Linux VPS, DevOps  
-- NGINX, PM2, Docker, UFW, Certbot  
-- APIs REST, ambientes escaláveis e seguros
+Atualmente trabalhando focado em aplicações Web tipo SaaS (Software as a Service) para o segmento de Delivery (Bares, Restaurantes, Fastfoods, Deliveries em Geral), Controle de Diárias para Hotelaria de Pequeno e Médio Porte (Hotéis, Motéis e Pousadas), Automação Comercial e Industrial, Comunicação Digital, Desenvolvimento c/ suporte de IA (Inteligência Artificial) c/ CoPilot (Microsoft), Gemini (Google), Claude (Anthropic), ChatGPT (OpenAI), Meta AI (WhatsApp), Lovable.app, entre outras.
 
 ---
+- Desenvolvimento de Ambientes Escaláveis e Seguros
 
-## Projetos
+## Backend
+- Linux Ubuntu Server, cPanel/AAPanel, 
+- Pacotes LAMP/LNMP (Linux, Apache, NGINX, PM2, PHP e MySQL), PM2, 
+- Open SSH, UFW, Certbot, Docker, DevOps, CI/CD 
+- Node.js Express, JWT (Jason Web Token), Websocket.io, RESTful API & JSON
+- MySQL, PostgreSQL, Firebase, AWS Amplify
+- APIs REST (RESTful API & JSON)
+
+## Frontend
+- React.js, Bootstrap, TailWind CSS, HTML5/CSS3, Javascript, jQuery
+- React Native, Expo CLI/EAS  
+- Delphi (Pascal, Pascal w/ Objects/Object Pascal)
+---
+
+## Projetos Atuais
 
 - **guiadebh.online**: Catálogo de Produtos e Serviços de Belo Horizonte MG
 - **psi-Delivery**: Sistema de Delivery para Bares, Restaurantes, Fasfoods, Deliveries em Geral
 - **psi-Hotek (SaaS)**: Controle de Diárias para Hotelaria de Pequeno e Médio Porte (Hotéis, Motéis e Pousadas)  
 - **Nexus (Contact Center)**: Sistema de Atendimento Inteligente (c/ suporte de IA) via Chat, WhatsApp, Facebook, Instagram etc.
 - **psi-Crm**: Sistema CRM modulado, adaptável para qualquer segmento ou nicho  
-
 ---
 
-## Tecnologias & Ferramentas
+## Tools
 
 ![Delphi](https://img.shields.io/badge/Delphi-C73324?logo=delphi&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -60,13 +63,15 @@ Atualmente focado em Sistemas para Delivery, Automação Comercial e Industrial,
 PM2, NGINX, Certbot, GitHub Actions, UFW
 
 ### Testes & Documentação
-Postman, Insomnia
+Postman, Insomnia, VSCode
 
 ---
-## Parcerias (Pool):
+## Pool de Parceiros:
 
 <ul>
  <li>LuizVaz - Sideplay (https://github.com/luizvaz) </li>
+ <li>Heliomar Marques - Tech Leader (Banco Itaú S/A)</li>
+ <li>Zimmer Marques - Desenvolvedor Full Stack Sênior, Pref. Municipal do Rio de Janeiro RJ</li>
  <li>Afonso Motta - Codec Vídeo (https://github.com/AfonsoMotta)</li>
  <li>Walcledson de Paula - MV Info (https://microvolution.wmx.net.br/)</li>
 </ul>

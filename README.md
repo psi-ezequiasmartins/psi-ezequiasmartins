@@ -25,11 +25,11 @@ Atualmente trabalhando em aplicações Web tipo SaaS (Software as a Service) par
 - React Native, Expo CLI/EAS  
 - Delphi (Pascal, Pascal w/ Objects/Object Pascal)
 
-### Monitoramento & CI/CD
-PM2, NGINX, Certbot, GitHub Actions, UFW
+## Monitoramento & CI/CD
+- PM2, NGINX, Certbot, GitHub Actions, UFW
 
-### Editores de Código, Testes & Documentação
-VSCode, Notepad++, Postman, Insomnia 
+## Editores de Código, Testes & Documentação
+- VSCode, Notepad++, Postman, Insomnia 
 ---
 
 ## Projetos Atuais

@@ -31,8 +31,8 @@ Atualmente trabalhando em aplicações Web tipo SaaS (Software as a Service) par
 - **guiadebh.online** https://guiadebh.online: Catálogo de Produtos e Serviços de Belo Horizonte MG
 - **psi-Delivery** https://deliverybairro.com: Sistema de Delivery para Bares, Restaurantes, Fasfoods, Deliveries em Geral
 - **psi-Hotel (SaaS)** https://psi-hotel-saas.lovable.app: Controle de Diárias para Hotéis, Motéis e Pousadas  
-- **Nexus (Contact Center)** https://psi-nexus.vercel.app: Atendimento Inteligente c/ suporte de IA via Chatbot, WhatsApp, Facebook, Instagram etc
 - **psi-Crm** https://psi-crm.vercel.app: Sistema CRM modulado, adaptável para qualquer segmento ou nicho  
+- **Nexus (Contact Center)** https://psi-nexus.vercel.app: Atendimento Inteligente c/ suporte de IA via Chatbot, WhatsApp, Facebook, Instagram etc
 ---
 
 ## Tools

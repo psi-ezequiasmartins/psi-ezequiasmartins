@@ -7,7 +7,7 @@ Sou profissional autônomo, especializado em programação e desenvolvimento de 
 
 Desenvolvedor de Sistemas Full Stack Sênior com +35 anos de experiência em ambientes Desktop, Web e Mobile.
 
-Atualmente trabalhando focado em aplicações Web tipo SaaS (Software as a Service) para o segmento de Delivery (Bares, Restaurantes, Fastfoods, Deliveries em Geral), Controle de Diárias para Hotelaria de Pequeno e Médio Porte (Hotéis, Motéis e Pousadas), Automação Comercial e Industrial, Comunicação Digital, Desenvolvimento c/ suporte de IA (Inteligência Artificial) c/ CoPilot (Microsoft), Gemini (Google), Claude (Anthropic), ChatGPT (OpenAI), Meta AI (WhatsApp), Lovable.app, entre outras.
+Atualmente trabalhando em aplicações Web tipo SaaS (Software as a Service) para o segmento de Delivery (Bares, Restaurantes, Fastfoods, Deliveries em Geral), Controle de Diárias para Hotelaria de Pequeno e Médio Porte (Hotéis, Motéis e Pousadas), Automação Comercial e Industrial, Comunicação Digital, Desenvolvimento c/ suporte de IA (Inteligência Artificial) c/ CoPilot (Microsoft), Gemini (Google), Claude (Anthropic), ChatGPT (OpenAI), Meta AI (WhatsApp), Lovable.app, entre outras.
 
 ---
 - Desenvolvimento de Ambientes Escaláveis e Seguros

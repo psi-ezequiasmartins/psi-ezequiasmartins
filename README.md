@@ -63,8 +63,8 @@ Atualmente trabalhando em aplicações Web tipo SaaS (Software as a Service) par
 
 <ul>
  <li>LuizVaz - Sideplay (https://github.com/luizvaz) </li>
- <li>Heliomar Marques - Tech Leader (Banco Itaú S/A)</li>
- <li>Zimmer Marques - Desenvolvedor Full Stack Sênior, Pref. Municipal do Rio de Janeiro RJ</li>
+ <li>Heliomar Marques - Tech Leader Banco Itaú S/A (https://github.com/heliomarpm)</li>
+ <li>Zimmer Marques - Desenvolvedor Full Stack Sênior (https://github.com/zimmermarques)</li>
  <li>Afonso Motta - Codec Vídeo (https://github.com/AfonsoMotta)</li>
  <li>Walcledson de Paula - MV Info (https://microvolution.wmx.net.br/)</li>
 </ul>

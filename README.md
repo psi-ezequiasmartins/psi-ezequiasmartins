@@ -72,7 +72,7 @@ Atualmente trabalhando em aplicações Web tipo SaaS (Software as a Service) par
 Entre outros.
 
 ## Contato
-[**+55 31 98410-7540 WhatsApp**](https://wa.me/05531984107540) | [Telegram](https://t.me/psi_software)
+[+55 31 98410-7540 WhatsApp](https://wa.me/05531984107540) | [Telegram](https://t.me/psi_software)
 
 [e-mail: ezequiasmartins@gmail.com](mailto:ezquiasmartins@gmail.com)
 

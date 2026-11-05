@@ -75,5 +75,6 @@ Entre outros.
 **+55 31 98410-7540** WhatsApp | Telegram (t.me/psi_software)
 
 [e-mail: ezequiasmartins@gmail.com](mailto:ezquiasmartins@gmail.com)
+
 [github: psi-ezequiasmartins](https://github.com/psi-ezequiasmartins)
 

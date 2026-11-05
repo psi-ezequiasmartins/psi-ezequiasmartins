@@ -1,17 +1,7 @@
 # 👋 Olá, meu nome é Ezequias Martins
 
 Bem-vindo ao meu GitHub!  
-Sou fundador da psi-software (projetos e soluções integradas em software), atuando em Consultoria e Assessoria especializada em TI, Infraestrutura Digital Web/SEO, e-Commerce, Automação Comercial e Industrial, e em parceria (pool) com:
-
-<ul>
- <li>LuizVaz - Sideplay (https://github.com/luizvaz) </li>
- <li>Afonso Motta - Codec Vídeo (https://github.com/AfonsoMotta)</li>
- <li>Walcledson de Paula - MV Info (https://microvolution.wmx.net.br/)</li>
-</ul>
-  
-Entre outros.
-
----
+Sou profissional autônomo, especializado em programação e desenvolvimento de aplicações Desktop (Windows/Linux), Aplicações Web (CRM, SaaS), Automação Comercial e Industrial, etc), Aplicações Mobile (Android/iOs), Infraestrutura do Backend ao Frontend, Consultoria Web/SEO, e-Commerce, entre outras áreas relacionadas. 
 
 ## Sobre Mim
 
@@ -34,10 +24,11 @@ Atualmente focado em Sistemas para Delivery, Automação Comercial e Industrial,
 
 ## Projetos
 
-- **psi-CRM**: Sistema CRM adaptável para diversos setores  
-- **psi-Delivery**: Plataforma de delivery para restaurantes, farmácias, mercados e mais
-- **nexus (chatwoot)**: Sistema de Atendimento Inteligente integrado ao WhatsApp, Facebook, Instagram e IA
-- **psi-Hotéis**: Gestão de hotelaria para pequenas e médias empresas  
+- **guiadebh.online**: Catálogo de Produtos e Serviços de Belo Horizonte MG
+- **psi-Delivery**: Sistema de Delivery para Bares, Restaurantes, Fasfoods, Deliveries em Geral
+- **psi-Hotek (SaaS)**: Controle de Diárias para Hotelaria de Pequeno e Médio Porte (Hotéis, Motéis e Pousadas)  
+- **Nexus (Contact Center)**: Sistema de Atendimento Inteligente (c/ suporte de IA) via Chat, WhatsApp, Facebook, Instagram etc.
+- **psi-Crm**: Sistema CRM modulado, adaptável para qualquer segmento ou nicho  
 
 ---
 
@@ -72,13 +63,21 @@ PM2, NGINX, Certbot, GitHub Actions, UFW
 Postman, Insomnia
 
 ---
+## Parcerias (Pool):
+
+<ul>
+ <li>LuizVaz - Sideplay (https://github.com/luizvaz) </li>
+ <li>Afonso Motta - Codec Vídeo (https://github.com/AfonsoMotta)</li>
+ <li>Walcledson de Paula - MV Info (https://microvolution.wmx.net.br/)</li>
+</ul>
+  
+Entre outros.
 
 ## Contato
 
 **ezequiasmartins@gmail.com.br**  
 [GitHub/psi-ezequiasmartins](https://github.com/psi-ezequiasmartins)
 
-**+55 31 98410-7540** WhatsApp | Telegram (t.me/psi_software)
-
 [ezequiasmartins@gmail.com](mailto:ezquiasmartins@gmail.com)
+**+55 31 98410-7540** WhatsApp | Telegram (t.me/psi_software)
 
